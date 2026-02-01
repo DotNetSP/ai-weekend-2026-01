@@ -27,6 +27,10 @@ Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, A
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, Containers, MCP, Visual Studio Code, GitHub Copilot, .NET, Docker, NuGet, npm, Grafana k6, Azure API Managament, ???...**
 
+_# Da Documentação ao Copilot: Transformando Conhecimento Interno em Respostas Inteligentes_
+
+Palestrante: **Milton Camara Gomes (Microsoft MVP, MTAC)**
+
 ---
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
