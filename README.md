@@ -7,6 +7,7 @@ Organizadores:
 - **Julia Martins Ferreira (XP Inc.)**
 - **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
+- **Atila Olivi (SENAI)**
 - **Carlos Machel (AzureBrasil.cloud)**
 
 Número de participantes: **45 pessoas**
