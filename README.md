@@ -4,7 +4,6 @@ Fotos e informações gerais sobre o evento **AI Weekend**, realizado na cidade 
 Data: **31/01/2026 (sábado)**
 
 Organizadores:
-- **Julia Martins Ferreira (XP Inc.)**
 - **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
 - **Atila Olivi (SENAI)**
