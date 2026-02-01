@@ -21,6 +21,12 @@ Palestrante: **Carlos Machel (AzureBrasil.cloud)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, Microsoft Agent Framework, .NET, C#, Microsoft Foundry, MCP, Microsoft Azure...**
 
+_# Produtividade no Desenvolvimento com IAs: descomplicando tarefas do dia a dia com MCP Servers_
+
+Palestrante: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador MTAC)**
+
+Tecnologias e tópicos abordados: **Inteligência Artificial, Containers, MCP, Visual Studio Code, GitHub Copilot, .NET, Docker, NuGet, npm, Grafana k6, Azure API Managament, ???...**
+
 ---
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
