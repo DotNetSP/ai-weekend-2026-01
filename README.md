@@ -48,7 +48,7 @@ Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, AI Agen
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
-Este evento foi uma parceria entre as comunidades [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/), [**Azure na Prática**]() e a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
+Este evento foi uma parceria entre as comunidades [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/), [**Azure na Prática**](https://www.youtube.com/azurenapratica) e a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
 
 Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/ai-weekend-inteligencia-artificial-agents-mcp-gratuito-e-presencial-sao-paulo-sp/3277678)
 
