@@ -1,4 +1,4 @@
-# ai-weekend-2026-01
+# AI Weekend 2026: Inteligência Artificial, Agents, MCP...
 Fotos e informações gerais sobre o evento **AI Weekend**, realizado na cidade de São Paulo-SP.
 
 Data: **31/01/2026 (sábado)**
