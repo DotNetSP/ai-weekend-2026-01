@@ -25,7 +25,7 @@ _# Productivity in Development with AI: Simplifying everyday tasks with MCP Serv
 
 Speaker: **Renato Groffe (Microsoft MVP, Docker Captain, Grafana Champion, APIsec U Ambassador, MTAC)**
 
-Technologies and topics covered: **Artificial Intelligence, LLMs, MCP, AI Agents, Containers, Visual Studio Code, GitHub Copilot, .NET, Docker, NuGet, npm, Grafana k6, Docker MCP Catalog, Azure API Management, Microsoft Agent Framework, APIsec MCP Audit, GitHub Actions, Azure DevOps, PostgreSQL...**
+Technologies and topics covered: **Artificial Intelligence, LLMs, MCP, AI Agents, Containers, Microsoft Azure, Azure App Service, Visual Studio Code, GitHub Copilot, .NET, Docker, NuGet, npm, Grafana k6, Docker MCP Catalog, Azure API Management, Microsoft Agent Framework, APIsec MCP Audit, GitHub Actions, Azure DevOps, PostgreSQL...**
 
 _# From Documentation to Copilot: Transforming Internal Knowledge into Intelligent Responses_
 
