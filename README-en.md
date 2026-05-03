@@ -42,7 +42,7 @@ Participants:
 - **Carlos Machel (AzureBrasil.cloud)**
 - **Lucas Massena (Cloud Solutions Architect)**
 
-Technologies and topics covered: **Artificial Intelligence, LLMs, MCP, AI Agents, GitHub Copilot, Software Engineering, Software Architecture, Microsoft Foundry, Development Best Practices...**
+Technologies and topics covered: **.NET, C#, ASP.NET Core, Artificial Intelligence, LLMs, MCP, AI Agents, GitHub Copilot, Software Engineering, Software Architecture, Microsoft Foundry, Development Best Practices...**
 
 ---
 
